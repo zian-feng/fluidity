@@ -33,16 +33,16 @@ export const links: linkGroup[] = [
     title: "UOL",
     links: [
       {
-        label: "Moodle",
+        label: "CANVAS",
         value: "http://moodle4.city.ac.uk/",
       },
       {
-        label: "r/unixporn",
-        value: "https://www.reddit.com/r/unixporn/",
+        label: "OUTLOOK",
+        value: "https://outlook.office365.com/mail/",
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
+        label: "YAHOO",
+        value: "https://mail.yahoo.com/",
       },
       {
         label: "r/AnimalsBeingDerps",
@@ -51,18 +51,18 @@ export const links: linkGroup[] = [
     ],
   },
   {
-    title: "3D Modelling",
+    title: "CODEX",
     links: [
       {
-        label: "Blender",
-        value: "https://www.blender.org/",
+        label: "github",
+        value: "http://github.com/",
       },
       {
-        label: "BlenderGuru",
-        value: "https://www.blenderguru.com/",
+        label: "hex",
+        value: "https://app.hex.tech/",
       },
       {
-        label: "Poliigon",
+        label: "observable",
         value: "https://www.poliigon.com/",
       },
       {
@@ -78,18 +78,18 @@ export const links: linkGroup[] = [
     ],
   },
   {
-    title: "Design",
+    title: "AIML",
     links: [
       {
-        label: "PixlrX",
-        value: "https://pixlr.com/x/",
+        label: "grok",
+        value: "https://grok.com",
       },
       {
-        label: "AI Image Enlarger",
-        value: "https://bigjpg.com/en",
+        label: "claude",
+        value: "https://claude.ai/new",
       },
       {
-        label: "Img to Svg Converter",
+        label: "Observable",
         value: "https://picsvg.com/",
       },
       {
@@ -103,27 +103,31 @@ export const links: linkGroup[] = [
     ],
   },
   {
-    title: "Music",
+    title: "VIBES",
     links: [
       {
-        label: "i wanna be a cowboy",
-        value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+        label: "slowroads",
+        value: "https://slowroads.io/",
       },
       {
-        label: "let the bodies hit the floor",
-        value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
+        label: "poolsuite",
+        value: "https://poolsuite.net/",
       },
       {
-        label: "Nobody Kanna Cross It",
-        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
+        label: "spatial notes",
+        value: "https://www.youtube.com/@SpatialNotes",
       },
       {
-        label: "Smug Dancin",
-        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
+        label: "fkj calm piano",
+        value: "https://www.youtube.com/watch?v=AmmFD2OIs_k",
       },
       {
-        label: "Utamaru - The Sanctified Mind Cover",
-        value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
+        label: "mtl jazz house",
+        value: "https://www.youtube.com/watch?v=-XqFjEXeiYE&t=154s",
+      },
+      {
+        label: "gravagerz greenhouse",
+        value: "https://www.youtube.com/watch?v=47wx1jXC6aE",
       },
     ],
   },
