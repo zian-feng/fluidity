@@ -171,7 +171,7 @@ export const images: dataElem[] = [
   { label: "pic_6", value: pic_6 },
   { label: "pic_7", value: pic_7 },
   { label: "pic_8", value: pic_8 },
-  { label: "pic_9", value: pic_9 }
+  { label: "pic_9", value: pic_9 },
 ]
 
 export const searchEngines: dataElem[] = [
