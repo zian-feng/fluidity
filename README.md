@@ -11,7 +11,7 @@ You can also just take a look at the [Live Demo](https://prettycoffee.github.io/
 ### Themes
 ![Default theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png)
 ![Dark Souls theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png)
-![Pop!OS theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png)
+
 **If you created a theme and want to see it here, hit me up!**
 
 ## Usage

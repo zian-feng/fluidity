@@ -22,7 +22,7 @@ export interface linkGroup {
 /*
 ──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀▀▀▌
 ───▄▄██▌█ BEEP BEEP
-▄▄▄▌▐██▌█ GAY PORN DELIVERY
+▄▄▄▌▐██▌█ SPECIAL DELIVERY
 ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄​▄▄▄▄▄▄▌
 ▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
 */
@@ -30,11 +30,11 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    title: "Reddit",
+    title: "UOL",
     links: [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        label: "Moodle",
+        value: "http://moodle4.city.ac.uk/",
       },
       {
         label: "r/unixporn",
@@ -172,12 +172,12 @@ export const images: dataElem[] = [
 
 export const searchEngines: dataElem[] = [
   {
-    label: "DuckDuckGo",
-    value: `https://duckduckgo.com/?q=${queryToken}`,
-  },
-  {
     label: "Google",
     value: `https://www.google.com/search?q=${queryToken}`,
+  },
+  {
+    label: "DuckDuckGo",
+    value: `https://duckduckgo.com/?q=${queryToken}`,
   },
   {
     label: "Qwant",
