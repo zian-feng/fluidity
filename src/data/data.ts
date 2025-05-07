@@ -46,8 +46,8 @@ export const links: linkGroup[] = [
         value: "https://mail.yahoo.com/",
       },
       {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+        label: "vercel",
+        value: "https://vercel.com/",
       },
     ],
   },
@@ -71,9 +71,9 @@ export const links: linkGroup[] = [
         value: "https://v0.dev",
       },
       {
-        label: "The other Blender tutorial",
+        label: "huggingface",
         value:
-          "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
+          "http://huggingface.co/",
       },
     ],
   },
@@ -97,8 +97,8 @@ export const links: linkGroup[] = [
         value: "https://notebooklm.google",
       },
       {
-        label: "Affinity - YT",
-        value: "https://www.youtube.com/c/AffinityRevolution/playlists",
+        label: "ollama",
+        value: "https://ollama.com",
       },
     ],
   },
@@ -232,9 +232,9 @@ export const themes: Theme[] = [
     image: pic_9,
     colors: {
       "--bg-color": "#2F2F2F",
-      "--default-color": "#CAD3F5",
-      "--accent-color": "#C6A0F6",
-      "--accent-color2": "#8AADF4",
+      "--default-color": "#E7E7E7",
+      "--accent-color": "#8E8E8E",
+      "--accent-color2": "#E4E4E4",
     },
   },
   {
