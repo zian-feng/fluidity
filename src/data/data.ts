@@ -72,8 +72,7 @@ export const links: linkGroup[] = [
       },
       {
         label: "huggingface",
-        value:
-          "http://huggingface.co/",
+        value: "http://huggingface.co/",
       },
     ],
   },
