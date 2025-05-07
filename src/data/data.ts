@@ -6,7 +6,7 @@ import pic_5 from "./pictures/pic_5.jpg"
 import pic_6 from "./pictures/pic_6.jpg"
 import pic_7 from "./pictures/pic_7.jpg"
 import pic_8 from "./pictures/pic_8.png"
-import pic_9 from "./pictures/youth.jpeg"
+import pic_9 from "./pictures/youth.jpg"
 import { queryToken } from "../Startpage/Searchbar/Searchbar"
 
 export interface dataElem {
